@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">userKotlin</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!--    Barras de navegación-->
+    <string name="menu_usuarios">Usuarios</string>
+    <string name="menu_request">Solicitar visita</string>
+
+
+
+
+
+    <string name="welcome">Welcome</string>
+    <string name="prompt_email">Email</string>
+    <string name="accion_sign_in">Next</string>
+    <string name="account_google">Acceder con Google</string>
+    <string name="tecnm">©TecNM</string>
+    <string name="error_field_required">¡Error! Campo obligatorio</string>
+    <string name="error_invalid_email">¡Error! email inválido</string>
+    <string name="action_sing_in_short">Sing in</string>
+    <string name="prompt_password">password</string>
+    <string name="error_invalid_password">¡Error! password invalido</string>
+    <string name="networks">Error de conexión de red</string>
+    <string name="invalid_credentials">Credenciales invalidas</string>
+
+    <string name="log_out">Log out</string>
+    <string name="camera_menu">Camara</string>
+    <string name="gallery_menu">Galeria</string>
+    <string name="name">Nombre</string>
+    <string name="last_name">Apellido</string>
+    <string name="cancel">Cancelar</string>
+    <string name="ok">Ok</string>
+
+    <string name="fail_register">Ocurrio un error al registrar usuario</string>
+    <string name="fail_to_update">Ocurrio un error al actualizar usuario</string>
+    <string name="action_search">Search</string>
+    <string name="report_user">Información de usuario</string>
+    <string name="edit">actualizar</string>
+    <string name="role">Rol</string>
+
+
+    <!--  New request visit  -->
+    <string name="current_date">Fecha de elaboración</string>
+    <string name="periodo_escolar">Periodo escolar</string>
+    <string name="materia">Materia</string>
+    <string name="semestre_y_grupo">Semestre y grupo</string>
+    <string name="nombre_docente">Nombre del (la) docente</string>
+    <string name="telefono">Numero Telefonico</string>
+    <!--  company / institution data  -->
+    <string name="nombre_empresa">Nombre</string>
+    <string name="domicilio">Domicilio</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="contacto_telefono">Teléfono</string>
+    <!-- data visit -->
+    <string name="carrera">Carrera</string>
+    <string name="area">Área a observar</string>
+    <string name="objetivo_visita">Objetivo de la visita</string>
+    <string name="número_alumnos">Número de alumnos</string>
+    <string name="fecha_tentativa">Fecha tentativa</string>
+    <string name="hora_tentativa">Hora tentativa</string>
+
+</resources>
